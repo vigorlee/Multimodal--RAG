@@ -1,0 +1,18 @@
+{
+    "name": "corridor2",
+    "top_left": [
+        19,
+        58
+    ],
+    "bottom_right": [
+        26,
+        98
+    ],
+    "aps": [
+        "g"
+    ],
+    "object": [
+        "Bench",
+        "Plant"
+    ]
+}

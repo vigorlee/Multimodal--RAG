@@ -1,0 +1,80 @@
+[
+    {
+        "bssid": "a",
+        "x": 9,
+        "y": 48,
+        "channel": 149
+    },
+    {
+        "bssid": "b",
+        "x": 9,
+        "y": 55,
+        "channel": 36
+    },
+    {
+        "bssid": "c",
+        "x": 9,
+        "y": 64,
+        "channel": 36
+    },
+    {
+        "bssid": "g",
+        "x": 22,
+        "y": 84,
+        "channel": 36
+    },
+    {
+        "bssid": "i",
+        "x": 31,
+        "y": 61,
+        "channel": 149
+    },
+    {
+        "bssid": "j",
+        "x": 31,
+        "y": 75,
+        "channel": 36
+    },
+    {
+        "bssid": "m",
+        "x": 31,
+        "y": 96,
+        "channel": 52
+    },
+    {
+        "bssid": "n",
+        "x": 44,
+        "y": 98,
+        "channel": 149
+    },
+    {
+        "bssid": "l",
+        "x": 37,
+        "y": 87,
+        "channel": 149
+    },
+    {
+        "bssid": "k",
+        "x": 46,
+        "y": 86,
+        "channel": 36
+    },
+    {
+        "bssid": "d",
+        "x": 11,
+        "y": 84,
+        "channel": 149
+    },
+    {
+        "bssid": "e",
+        "x": 14,
+        "y": 96,
+        "channel": 36
+    },
+    {
+        "bssid": "h",
+        "x": 52,
+        "y": 53,
+        "channel": 149
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "name": "r6-8",
+    "top_left": [
+        1,
+        45
+    ],
+    "bottom_right": [
+        17,
+        50
+    ],
+    "aps": [
+        "a"
+    ],
+    "object": [
+        "Drawer Cabinet",
+        "Computer",
+        "Desk",
+        "Chair"
+    ]
+}

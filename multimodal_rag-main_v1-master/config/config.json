@@ -1,0 +1,5 @@
+{
+  "vis_model_path":  "E:\\model\\siglip-base-patch16-224",
+  "embedding_model_path": "E:\\model\\bge-small-zh-v1.5",
+  "model_LLM_path": "E:\\model\\miniCPM-V"
+}

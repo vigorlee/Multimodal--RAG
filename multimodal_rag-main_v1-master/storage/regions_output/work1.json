@@ -1,0 +1,20 @@
+{
+    "name": "work1",
+    "top_left": [
+        42,
+        79
+    ],
+    "bottom_right": [
+        49,
+        93
+    ],
+    "aps": [
+        "k"
+    ],
+    "object": [
+        "Computer",
+        "Desk",
+        "Chair",
+        "Whiteboard"
+    ]
+}

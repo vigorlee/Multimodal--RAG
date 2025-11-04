@@ -1,0 +1,19 @@
+{
+    "name": "corridor1",
+    "top_left": [
+        27,
+        48
+    ],
+    "bottom_right": [
+        71,
+        57
+    ],
+    "aps": [
+        "h"
+    ],
+    "object": [
+        "Bench",
+        "Plant",
+        "Display Screen"
+    ]
+}

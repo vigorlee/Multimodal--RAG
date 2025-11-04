@@ -1,0 +1,20 @@
+{
+    "name": "tea_room",
+    "top_left": [
+        36,
+        79
+    ],
+    "bottom_right": [
+        40,
+        90
+    ],
+    "aps": [
+        "l"
+    ],
+    "object": [
+        "Table",
+        "Chair",
+        "Coffee Machine",
+        "Microwave"
+    ]
+}

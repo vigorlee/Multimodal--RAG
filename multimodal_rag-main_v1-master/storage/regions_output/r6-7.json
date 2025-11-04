@@ -1,0 +1,18 @@
+{
+    "name": "r6-7",
+    "top_left": [
+        1,
+        52
+    ],
+    "bottom_right": [
+        17,
+        57
+    ],
+    "aps": [
+        "b"
+    ],
+    "object": [
+        "Desk",
+        "Chair"
+    ]
+}
